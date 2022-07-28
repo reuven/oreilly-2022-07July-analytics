@@ -1,4 +1,4 @@
-# Jupyter notebook from my "Analytics in Five Weeks" training
+# Notebooks from my "Analytics in Five Weeks" training
 
 This repo contains the Jupyter notebook from my training for O'Reilly, starting on August 2nd.
 
